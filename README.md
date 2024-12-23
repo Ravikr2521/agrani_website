@@ -1,6 +1,6 @@
 # [Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) - Created a Landing page in Tailwind
 
-Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) coded by [Ravi]
+Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) code by Ravi.
 
 ![Landing Page](./landingpage.png)
 
