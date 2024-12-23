@@ -1,6 +1,6 @@
-# [Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) - Free Landingpage Template Apps
+# [Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) - Created a Landing page in Tailwind
 
-Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) coded by [Faldi](twitter.com/f2aldi) and design from [Didi](https://twitter.com/didiikurniawann).
+Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) coded by [Ravi]
 
 ![Landing Page](./landingpage.png)
 
@@ -9,7 +9,7 @@ Tailwind VPN Landingpage is an open source, apps landing page template for [Tail
 Choose one of the following options to get started:
 
 - [Download the latest release](https://github.com/naufaldi/next-landing-vpn/archive/main.zip)
-- Clone the repo: `git clone https://github.com/naufaldi/next-landing-vpn.git`
+- Clone the repo: `git clone  https://github.com/Ravikr2521/agrani_website.git`
 - Fork the repo
 
 ## About the Template
